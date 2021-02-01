@@ -1,4 +1,4 @@
-📫  \### How to reach me: 
+## How to reach me: 
 
 
 [<img align="center" alt="faith-ntundi-0552a46a | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 
 [linkedin]: https://www.linkedin.com/in/faith-ntundi-0552a46a/
 
-
+[mail] : faithntundi@gmail.com
 
