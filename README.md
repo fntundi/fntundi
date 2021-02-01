@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 
 [linkedin]: https://www.linkedin.com/in/faith-ntundi-0552a46a/
 
-[Personal Mail - Email](mailto:faithntundi@gmail.com)
+[Email](mailto:faithntundi@gmail.com)
 
 
