@@ -1,7 +1,12 @@
 🔭 **I’m currently working on:**
-1. Improving the security on my home network
+1. Improving the services and tools available on my home network
   a. A local Pi-Hole DNS Server
-  b. 
+  b. Subnets for specific activities
+     I) Security Testing
+     II) Home Lab and Development
+     III) Home services
+  c. MinIO storage for documents and photos
+  
 🌱 **I’m currently learning:**
 1. Using Python to automate IaaC.
 2. Using Terraform and Ansible for provisioning and configuration management automation.
