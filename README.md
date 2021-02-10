@@ -1,4 +1,13 @@
-**How to reach me:** 
+🔭 **I’m currently working on:**
+1. Improving the security on my home network
+  a. A local Pi-Hole DNS Server
+  b. 
+🌱 **I’m currently learning:**
+1. Using Python to automate IaaC.
+2. Using Terraform and Ansible for provisioning and configuration management automation.
+3. Automating Workflows with GitLab/GitHub CI/CD tools (Building pipelines)
+
+📫 **How to reach me:** 
 
 [Email](mailto:faithntundi@gmail.com)
 
