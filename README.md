@@ -6,19 +6,20 @@
      II) Home Lab and Development
      III) Home services
   c. MinIO storage for documents and photos
+  d. A personal VPN using Linode
   
-🌱 **I’m currently learning:**
-1. Using Python to automate IaaC.
+🌱 **I’m currently improving on:**
+1. Using Go to automate IaaC.
 2. Using Terraform and Ansible for provisioning and configuration management automation.
-3. Automating Workflows with GitLab/GitHub CI/CD tools (Building pipelines)
+3. Automating Workflows with Bamboo, GitHub, and Jenkins CI/CD tools (Building pipelines)
 
 📫 **How to reach me:** 
 
 [Email](mailto:faithntundi@gmail.com)
 
-[<img align="center" alt="faith-ntundi-0552a46a | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="center" alt="faith-ntundi-0552a46a | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-
+https://imgs.xkcd.com/comics/sandwich.png
 <!--
 **fntundi/fntundi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
