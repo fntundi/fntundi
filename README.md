@@ -1,12 +1,12 @@
 🔭 **I’m currently working on:**
-1. Improving the services and tools available on my home network
-  a. A local Pi-Hole DNS Server
-  b. Subnets for specific activities
-     I) Security Testing
-     II) Home Lab and Development
-     III) Home services
-  c. MinIO storage for documents and photos
-  d. A personal VPN using Linode
+1. Improving the services and tools available on my home network \n
+  a. A local Pi-Hole DNS Server\n
+  b. Subnets for specific activities\n
+     I) Security Testing\n
+     II) Home Lab and Development\n
+     III) Home services\n
+  c. MinIO storage for documents and photos\n
+  d. A personal VPN using Linode\n
   
 🌱 **I’m currently improving on:**
 1. Using Go to automate IaaC.
