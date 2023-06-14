@@ -12,9 +12,9 @@
   * Automating Patching and Backups
   
 🌱 **I’m currently improving on:**
-1. Using Go to automate IaaC.
-2. Using Terraform and Ansible for provisioning and configuration management automation.
-3. Automating Workflows with Bamboo, GitHub, and Jenkins CI/CD tools (Building pipelines)
+ * Using Go to automate IaaC.
+ * Using Terraform and Ansible for provisioning and configuration management automation.
+ * Automating Workflows with Bamboo, GitHub, and Jenkins CI/CD tools (Building pipelines)
 
 📫 **How to reach me:** 
 
