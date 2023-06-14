@@ -1,5 +1,6 @@
 🔭 **I’m currently working on:**
-*Improving the services and tools available in my home network
+
+* Improving the services and tools available in my home network
 
   * A local Pi-Hole DNS Server
   * Subnets for specific activities
